@@ -1,0 +1,15 @@
+{
+  "Take Your Stand Closing": {
+    "scope": "markdown",
+    "prefix": "tys-close",
+    "body": [
+      ":::info[Take Your Stand]",
+      "* 📡 **Indicator:** ${1: Indicator}",
+      "* ⚡ **Action:** ${2: Action}",
+      "* 🎯 **Goal:** ${3: Goal}",
+      ":::",
+      "$0"
+    ],
+    "description": "Inserts the repetitive closing section for Take Your Stand with tabstops"
+  }
+}

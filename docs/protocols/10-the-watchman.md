@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
-title: "Protocol: The Watchman (Anxiety)"
-description: Counter-measures for racing thoughts and panic.
+sidebar_position: 10
+title: "The Watchman (Anxiety)"
+description: "Counter-measures for racing thoughts and panic."
 ---
 
 > “For God has not given us a spirit of fear, but of power and of love and of a sound mind.” (2 Timothy 1:7)
